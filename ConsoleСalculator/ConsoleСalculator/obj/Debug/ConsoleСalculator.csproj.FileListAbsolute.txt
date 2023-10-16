@@ -1,0 +1,8 @@
+D:\Visual Studio Prog\C#\Практика\ConsoleСalculator\ConsoleСalculator\bin\Debug\ConsoleСalculator.exe.config
+D:\Visual Studio Prog\C#\Практика\ConsoleСalculator\ConsoleСalculator\bin\Debug\ConsoleСalculator.exe
+D:\Visual Studio Prog\C#\Практика\ConsoleСalculator\ConsoleСalculator\bin\Debug\ConsoleСalculator.pdb
+D:\Visual Studio Prog\C#\Практика\ConsoleСalculator\ConsoleСalculator\obj\Debug\ConsoleСalculator.csproj.AssemblyReference.cache
+D:\Visual Studio Prog\C#\Практика\ConsoleСalculator\ConsoleСalculator\obj\Debug\ConsoleСalculator.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Prog\C#\Практика\ConsoleСalculator\ConsoleСalculator\obj\Debug\ConsoleСalculator.csproj.CoreCompileInputs.cache
+D:\Visual Studio Prog\C#\Практика\ConsoleСalculator\ConsoleСalculator\obj\Debug\ConsoleСalculator.exe
+D:\Visual Studio Prog\C#\Практика\ConsoleСalculator\ConsoleСalculator\obj\Debug\ConsoleСalculator.pdb
